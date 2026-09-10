@@ -13,6 +13,7 @@
 <p align="center">Writing styles: Formal + CAPS occasionally.</p>
 <p align="center">Bodily; 14-16</p>
 <p align="center">DNI in SP</p>
+<p align="center">Gideon speaks in 3rd person / 1st person plural. Do not use: "you/u/yours/urs" for Gideon. Instead, replace those words with "Gideon". Example: "How is Gideon?" ✅ "How are you?" ❌</p>
 
 <p>ART not ours!</p>
 <img src="https://files.catbox.moe/d3h491.png">
