@@ -14,9 +14,9 @@
 <p align="center">Bodily; 14-16</p>
 <p align="center">DNI if under 13.</p>
 
-<div style="text-align: center;">
+<center>
   <img src="https://files.catbox.moe/wmycra.png">
-</div>
+</center>
 
 </body>
 </html>
