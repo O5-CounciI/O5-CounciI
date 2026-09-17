@@ -6,7 +6,7 @@
 
 <h1 align="center"><u>1NF0RM4710N</u></h1>
 
-<p align="center">We are the Ecosystem!</p>
+<p align="center">We are the Ecosystem / Brain Cells!</p>
 <p align="center">Lalala...</p>
 <p align="center">Tone tags/indicators recommended!</p>
 <p align="center">Tics and stims present, preferable to ignore-</p>
