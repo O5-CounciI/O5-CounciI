@@ -12,7 +12,7 @@
 <p align="center">Tics and stims present, preferable to ignore-</p>
 <p align="center">Writing styles: formal + CAPS LOCK.</p>
 <p align="center">Bodily: 14-16</p>
-<p align="center"><b>DNI: Check SP.</b></p>
+<p align="center"><b><i><u>DNI: Check SP.</u></i></b></p>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31okv7n5oh7y77kwxzgiertwbuay&redirect=true">
